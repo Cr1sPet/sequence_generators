@@ -1,0 +1,12 @@
+GEM
+  specs:
+    numo-gnuplot (0.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  numo-gnuplot
+
+BUNDLED WITH
+   1.17.2
